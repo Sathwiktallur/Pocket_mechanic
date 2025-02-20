@@ -4,9 +4,9 @@
 This project is a mini project aimed at demonstrating [brief description of the project].
 
 ## Features
-- Feature 1: [Description of feature 1]
-- Feature 2: [Description of feature 2]
-- Feature 3: [Description of feature 3]
+- Feature 1: [User  gives his query on any vehicle breakdown.]
+- Feature 2: [Relavent solution is given to the sort the problem.]
+- Feature 3: [Even provides Youtube video link for better understanding.]
 
 ## Installation
 To install and run this project, follow these steps:
