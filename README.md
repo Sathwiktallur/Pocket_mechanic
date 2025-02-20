@@ -27,9 +27,9 @@ To install and run this project, follow these steps:
 ## Usage
 To use this project, follow these steps:
 
-1. [Step 1]
-2. [Step 2]
-3. [Step 3]
+1. Install the required libraries.
+2. Get the AI module from huggingface.
+
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
