@@ -1,56 +1,80 @@
-# Mini Project
+To create a proper README for your repository, here is a template you can start with:
 
-## Introduction
-This project is a mini project aimed at demonstrating [brief description of the project].
+```markdown
+# Pocket Mechanic
 
-## Features
-- Feature 1: [User  gives his query on any vehicle breakdown.]
-- Feature 2: [Relavent solution is given to the sort the problem.]
-- Feature 3: [Even provides Youtube video link for better understanding.]
+Pocket Mechanic is an auto expert application designed to assist users with their vehicle-related issues. This repository contains the source code for the Pocket Mechanic application.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Installation
-To install and run this project, follow these steps:
+
+To get started with Pocket Mechanic, follow these steps:
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/mini_prj.git
-    ```
+   ```bash
+   git clone https://github.com/Sathwiktallur/Pocket_mechanic.git
+   ```
 2. Navigate to the project directory:
-    ```bash
-    cd mini_prj
-    ```
-3. Install the dependencies:
-    ```bash
-    [command to install dependencies]
-    ```
+   ```bash
+   cd Pocket_mechanic
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
-To use this project, follow these steps:
 
-1. Install the required libraries.
-2. Get the AI module from huggingface.
+After installing the dependencies, you can start the application by running the following command:
 
+```bash
+python app.py
+```
+
+## Features
+
+- **Vehicle Diagnostics:** Diagnose vehicle issues based on user input.
+- **Maintenance Tips:** Get tips and advice on vehicle maintenance.
+- **Service Reminders:** Set reminders for regular vehicle servicing.
 
 ## Contributing
-Contributions are welcome! Please follow these steps to contribute:
+
+Contributions are welcome! If you would like to contribute to Pocket Mechanic, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m 'Add some feature'
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. Open a pull request.
 
 ## License
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-- [Person 1]
-- [Person 2]
-- [Resource 1]
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any questions or feedback, please contact [Your Name] at [your.email@example.com].
 
-# python-text-to-voice-
+For any questions or suggestions, feel free to reach out:
 
+- **Email:** [your-email@example.com](sathwikstallur277@gmail,com)
+- **GitHub Issues:** [Issues Page](https://github.com/Sathwiktallur/Pocket_mechanic/issues)
+
+```
+
+You can customize this template further based on the specific details and features of your project. Once you have updated the README, you can commit and push it to your repository.
